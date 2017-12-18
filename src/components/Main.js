@@ -29,9 +29,8 @@ class Main extends React.Component {
           Autentia Real Business Solutions, S.L.<br />
           Fechas: Feb. 2017 – actualidad <br />
           - Metodología scrum <br />
-          - eXtreme​ Programming<br />
           - servicios soap y Rest <br />
-          - Test: junit, mockito, soapui, karma-jasmine<br />
+          - Test: junit, mockito, soapui, karma-jasmine
           - Coding: Angular, javascript, kotlin-Android, java EE 8, Typescript<br />
           - Db: firebase, mysql<br />
           - Utils: services worker, PWA, jenkins, docker, git, webpack, npm   
@@ -44,7 +43,7 @@ class Main extends React.Component {
           - Desarrollo de aplicaciones web MVC. <br />
           - Desarrollo app con ionic2 <br />
           - Configuración y mantenimiento servidor linux. <br />
-          - Herramientas: AngularJs, adminLte, boostrap, bower, grunt, gulp, bitbucket, git,<br />
+          - Tecnologías: AngularJs, adminLte, boostrap, bower, grunt, gulp, bitbucket, git,<br />
            java spring, liquibase, hibernate, MySQL, google engine, amazon WS, thymeleaf,<br />
             REST, ionic, typescript, angular 2, meteor, cordova, Mybatis, jersey, primefaces <br />
          </p>
@@ -80,12 +79,12 @@ class Main extends React.Component {
           <p>
             Axpe-Consulting <br/>
             Fechas: Dic. 2006 – Dic. 2007<br />            
-            - Cliente Infocaja<br />
+            - Cliente Infodesa<br />
           </p>
          <h3>Consultor Junior</h3>
           <p>
             Everis <br/>
-            Fechas: Oct. 2006 – Oct. 2006<br />            
+            Fechas: Oct. 2005 – Oct. 2006<br />            
             - Cliente Mapfre<br />
           </p>
           <button className="button-right" onClick={() => {this.props.onCloseArticle()}} >Close</button>
