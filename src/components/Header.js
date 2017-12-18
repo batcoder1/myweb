@@ -8,8 +8,8 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Enrique Rubio Sánchez</h1>
-                <p>Developer<br />
-                web: javascript ES6, ES7, ES8, angular, react <br />
+                <p>Developer<p/>
+                <p>web: javascript ES6, ES7, ES8, angular, react <br />
                 Mobile: kotlin-android</p>
             </div>
         </div>
