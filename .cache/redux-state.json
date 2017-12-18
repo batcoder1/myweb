@@ -1012,12 +1012,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-18T20:21:43.835Z",
+      "buildTime": "2017-12-18T22:22:07.195Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6c4a4300c89b7e3bd32a96bcbcf23580",
+        "contentDigest": "8abb4ae4158b6b701259d5597c4009af",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1838,7 +1838,7 @@
       "context": {
         "path": "/hello-world/"
       },
-      "updatedAt": 1513628507712,
+      "updatedAt": 1513635729621,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
@@ -1847,7 +1847,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "310f3827f2a7b06be940098548d7e6e5",
+        "contentDigest": "377d893a8d87682146b2d54c22b94a0e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1861,7 +1861,7 @@
       "context": {
         "path": "/my-second-post/"
       },
-      "updatedAt": 1513628507713,
+      "updatedAt": 1513635729622,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
@@ -1870,7 +1870,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c123d8f84f9956c9baf03e91a741f819",
+        "contentDigest": "b949e1171243dff0fb0c3a7070091c42",
         "owner": "internal-data-bridge"
       }
     },
@@ -1882,7 +1882,7 @@
       "component": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513628507720,
+      "updatedAt": 1513635729632,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
@@ -1891,7 +1891,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ddce5ceeba163eff4f45efb56d8a99f",
+        "contentDigest": "1cd589f779d9f271bbf493fc5e72f7b5",
         "owner": "internal-data-bridge"
       }
     }
