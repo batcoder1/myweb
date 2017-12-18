@@ -3,11 +3,14 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
+  "component---cache-dev-404-page-js": preferDefault(require("/home/kike/workspace/gatsby-starter-dimension/.cache/dev-404-page.js")),
   "component---src-templates-blog-post-js": preferDefault(require("/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js")),
   "component---src-pages-index-js": preferDefault(require("/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js"))
 }
 
 exports.json = {
+  "layout-index.json": require("/home/kike/workspace/gatsby-starter-dimension/.cache/json/layout-index.json"),
+  "dev-404-page.json": require("/home/kike/workspace/gatsby-starter-dimension/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/home/kike/workspace/gatsby-starter-dimension/.cache/json/layout-index.json"),
   "hello-world.json": require("/home/kike/workspace/gatsby-starter-dimension/.cache/json/hello-world.json"),
   "layout-index.json": require("/home/kike/workspace/gatsby-starter-dimension/.cache/json/layout-index.json"),

@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/home/kike/workspace/gatsby-starter-dimension/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1513636516005,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "8d2115e2f433247f6b7678b866b766df",
         "owner": "internal-data-bridge"
       }
     },
@@ -1010,14 +1020,16 @@
         "author": "Enrique Rubiong",
         "description": ""
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-18T22:22:07.195Z",
+      "buildTime": "2017-12-18T22:35:12.741Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8abb4ae4158b6b701259d5597c4009af",
+        "contentDigest": "109f02647a61d5dd09b36879ede4a4ce",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1838,7 +1850,7 @@
       "context": {
         "path": "/hello-world/"
       },
-      "updatedAt": 1513635729621,
+      "updatedAt": 1513636516035,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
@@ -1847,7 +1859,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "377d893a8d87682146b2d54c22b94a0e",
+        "contentDigest": "527f3ad1b7dfbe5aad05ba81c09c3d56",
         "owner": "internal-data-bridge"
       }
     },
@@ -1861,7 +1873,7 @@
       "context": {
         "path": "/my-second-post/"
       },
-      "updatedAt": 1513635729622,
+      "updatedAt": 1513636516037,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
@@ -1870,7 +1882,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b949e1171243dff0fb0c3a7070091c42",
+        "contentDigest": "387b5e63adff80264fd6112e87dd7ff4",
         "owner": "internal-data-bridge"
       }
     },
@@ -1882,7 +1894,7 @@
       "component": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513635729632,
+      "updatedAt": 1513636516050,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
@@ -1891,7 +1903,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1cd589f779d9f271bbf493fc5e72f7b5",
+        "contentDigest": "60e5cd0a4bed1ab4dc6a569424b59dfa",
         "owner": "internal-data-bridge"
       }
     }
@@ -1915,6 +1927,10 @@
         "/hello-world/"
       ]
     },
-    "connections": {}
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
   }
 }
