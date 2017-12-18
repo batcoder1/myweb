@@ -1,0 +1,1920 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c79fd99c9b848394864c88816b766bef",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b55066a3438fa27b4dd0a30a47a18312",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6d28e309259fdfdf4823abaa7b38c6f9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cade4facf6fe2dd0679784343ae9c51a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f92fec799dc2159f26d9a7aa5687389c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7b015ebe22f1cfd40131ebed3d93934c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.11",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/home/kike/workspace/gatsby-starter-dimension/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "faf0600e1a1d3d011745ec651f926229",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.25",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.36",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 630,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.24",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.25",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "831c64bc967f1f5daeaac3817096043a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.36",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 630,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.36",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.24"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "22ab0a437b4435f09692e2e4e80d9a8e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.24",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "653bc39a50da0a8ca05155bc0afb8680",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5c24401815e786c414c05d5bd33f90ab",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "16ddbf7bd8f30723c227a6fa484567d1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d08e8f381edbce263edee1826d34fcc3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "sass",
+          "scss"
+        ],
+        "author": "Daniel Farrell <daniel@mobelux.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "810d05022c5eed2295124d0349e73766",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/kike/workspace/gatsby-starter-dimension",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "a28e1a9b44708553b9f1aefd91108d7f",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension",
+      "packageJson": {
+        "name": "my-personal-web",
+        "description": "my personal web with Gatsby",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Hunter Chang",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.118"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.27"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.28"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.9"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.33"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.21"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.14"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "84ec0b3f75e42e8e3fb09bbe5777a080",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "personalWeb",
+        "author": "Enrique Rubiong",
+        "description": ""
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2017-12-18T20:21:43.835Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6c4a4300c89b7e3bd32a96bcbcf23580",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7482a3927656b027d324aa241a125e52",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-12-18T20:03:24.909Z",
+      "accessTime": "2017-12-18T20:03:24.913Z",
+      "changeTime": "2017-12-18T20:03:24.909Z",
+      "birthTime": "2017-12-18T20:03:24.909Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 43,
+      "mode": 16893,
+      "nlink": 4,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750350,
+      "blocks": 8,
+      "atimeMs": 1513627404912.9878,
+      "mtimeMs": 1513627404908.9878,
+      "ctimeMs": 1513627404908.9878,
+      "birthtimeMs": 1513627404908.9878,
+      "atime": "2017-12-18T20:03:24.913Z",
+      "mtime": "2017-12-18T20:03:24.909Z",
+      "ctime": "2017-12-18T20:03:24.909Z",
+      "birthtime": "2017-12-18T20:03:24.909Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c7a3574c2260b3ada89e15e05bd2a2cf",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world",
+      "relativePath": "hello-world",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-12-18T15:19:51.695Z",
+      "accessTime": "2017-12-18T15:19:51.731Z",
+      "changeTime": "2017-12-18T15:19:51.695Z",
+      "birthTime": "2017-12-18T15:19:51.695Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts",
+      "base": "hello-world",
+      "ext": "",
+      "name": "hello-world",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750351,
+      "blocks": 8,
+      "atimeMs": 1513610391731.0908,
+      "mtimeMs": 1513610391695.0903,
+      "ctimeMs": 1513610391695.0903,
+      "birthtimeMs": 1513610391695.0903,
+      "atime": "2017-12-18T15:19:51.731Z",
+      "mtime": "2017-12-18T15:19:51.695Z",
+      "ctime": "2017-12-18T15:19:51.695Z",
+      "birthtime": "2017-12-18T15:19:51.695Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "50caabc10245ad9047306b9af204f886",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post",
+      "relativePath": "my-second-post",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-12-18T15:19:51.699Z",
+      "accessTime": "2017-12-18T15:19:51.731Z",
+      "changeTime": "2017-12-18T15:19:51.699Z",
+      "birthTime": "2017-12-18T15:19:51.699Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts",
+      "base": "my-second-post",
+      "ext": "",
+      "name": "my-second-post",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750356,
+      "blocks": 8,
+      "atimeMs": 1513610391731.0908,
+      "mtimeMs": 1513610391699.0906,
+      "ctimeMs": 1513610391699.0906,
+      "birthtimeMs": 1513610391699.0906,
+      "atime": "2017-12-18T15:19:51.731Z",
+      "mtime": "2017-12-18T15:19:51.699Z",
+      "ctime": "2017-12-18T15:19:51.699Z",
+      "birthtime": "2017-12-18T15:19:51.699Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f4f45e94224b566adcf8b1a62861f179",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 181,
+      "prettySize": "181 B",
+      "modifiedTime": "2017-12-18T20:03:42.277Z",
+      "accessTime": "2017-12-18T20:03:42.281Z",
+      "changeTime": "2017-12-18T20:03:42.277Z",
+      "birthTime": "2017-12-18T20:03:42.277Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750352,
+      "blocks": 24,
+      "atimeMs": 1513627422281.098,
+      "mtimeMs": 1513627422277.098,
+      "ctimeMs": 1513627422277.098,
+      "birthtimeMs": 1513627422277.098,
+      "atime": "2017-12-18T20:03:42.281Z",
+      "mtime": "2017-12-18T20:03:42.277Z",
+      "ctime": "2017-12-18T20:03:42.277Z",
+      "birthtime": "2017-12-18T20:03:42.277Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "900d804330244e9c62a4325cc0a30fa4",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md",
+      "relativePath": "my-second-post/index.md",
+      "extension": "md",
+      "size": 130,
+      "prettySize": "130 B",
+      "modifiedTime": "2017-12-18T20:03:42.277Z",
+      "accessTime": "2017-12-18T20:03:42.281Z",
+      "changeTime": "2017-12-18T20:03:42.277Z",
+      "birthTime": "2017-12-18T20:03:42.277Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "my-second-post",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750357,
+      "blocks": 24,
+      "atimeMs": 1513627422281.098,
+      "mtimeMs": 1513627422277.098,
+      "ctimeMs": 1513627422277.098,
+      "birthtimeMs": 1513627422277.098,
+      "atime": "2017-12-18T20:03:42.281Z",
+      "mtime": "2017-12-18T20:03:42.277Z",
+      "ctime": "2017-12-18T20:03:42.277Z",
+      "birthtime": "2017-12-18T20:03:42.277Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Hello World\ndate: \"2015-05-01T22:12:03.284Z\"\npath: \"/hello-world/\"\n---\n\nThis is my first post on my new fake blog! How exciting!\n\n\n\n![Chinese Salty Egg](./salty_egg.jpg)\n",
+        "contentDigest": "a359ad56a202874fb018068248a0a7c2",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello World",
+        "date": "2015-05-01T22:12:03.284Z",
+        "path": "/hello-world/",
+        "_PARENT": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file",
+        "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: My Second Post!\ndate: \"2015-05-06T23:46:37.121Z\"\npath: \"/my-second-post/\"\n---\n\nWow! I love blogging so much already.\n  ",
+        "contentDigest": "9d948952de58846c2775b59807f4cb92",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "My Second Post!",
+        "date": "2015-05-06T23:46:37.121Z",
+        "path": "/my-second-post/",
+        "_PARENT": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file",
+        "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg",
+      "relativePath": "hello-world/salty_egg.jpg",
+      "extension": "jpg",
+      "size": 684322,
+      "prettySize": "684 kB",
+      "modifiedTime": "2017-12-18T15:19:51.695Z",
+      "accessTime": "2017-12-18T15:22:12.873Z",
+      "changeTime": "2017-12-18T15:19:51.695Z",
+      "birthTime": "2017-12-18T15:19:51.695Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world",
+      "base": "salty_egg.jpg",
+      "ext": ".jpg",
+      "name": "salty_egg",
+      "relativeDirectory": "hello-world",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750353,
+      "blocks": 1360,
+      "atimeMs": 1513610532872.9072,
+      "mtimeMs": 1513610391695.0903,
+      "ctimeMs": 1513610391695.0903,
+      "birthtimeMs": 1513610391695.0903,
+      "atime": "2017-12-18T15:22:12.873Z",
+      "mtime": "2017-12-18T15:19:51.695Z",
+      "ctime": "2017-12-18T15:19:51.695Z",
+      "birthtime": "2017-12-18T15:19:51.695Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9b0dff5cba95953199dea7dae131ae59",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-12-18T19:44:23.503Z",
+      "accessTime": "2017-12-18T19:44:23.811Z",
+      "changeTime": "2017-12-18T19:44:23.503Z",
+      "birthTime": "2017-12-18T19:44:23.503Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 43,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750340,
+      "blocks": 8,
+      "atimeMs": 1513626263810.7266,
+      "mtimeMs": 1513626263502.7253,
+      "ctimeMs": 1513626263502.7253,
+      "birthtimeMs": 1513626263502.7253,
+      "atime": "2017-12-18T19:44:23.811Z",
+      "mtime": "2017-12-18T19:44:23.503Z",
+      "ctime": "2017-12-18T19:44:23.503Z",
+      "birthtime": "2017-12-18T19:44:23.503Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png",
+      "relativePath": "overlay.png",
+      "extension": "png",
+      "size": 4385,
+      "prettySize": "4.38 kB",
+      "modifiedTime": "2017-12-18T18:22:49.663Z",
+      "accessTime": "2017-12-18T18:23:02.035Z",
+      "changeTime": "2017-12-18T18:23:02.031Z",
+      "birthTime": "2017-12-18T18:23:02.031Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "overlay.png",
+      "ext": ".png",
+      "name": "overlay",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4728678,
+      "blocks": 40,
+      "atimeMs": 1513621382035.3105,
+      "mtimeMs": 1513621369663.061,
+      "ctimeMs": 1513621382031.3105,
+      "birthtimeMs": 1513621382031.3105,
+      "atime": "2017-12-18T18:23:02.035Z",
+      "mtime": "2017-12-18T18:22:49.663Z",
+      "ctime": "2017-12-18T18:23:02.031Z",
+      "birthtime": "2017-12-18T18:23:02.031Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg",
+      "relativePath": "pic02.jpg",
+      "extension": "jpg",
+      "size": 8904,
+      "prettySize": "8.9 kB",
+      "modifiedTime": "2017-12-18T15:19:51.695Z",
+      "accessTime": "2017-12-18T15:19:53.063Z",
+      "changeTime": "2017-12-18T15:19:51.695Z",
+      "birthTime": "2017-12-18T15:19:51.695Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "pic02.jpg",
+      "ext": ".jpg",
+      "name": "pic02",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750344,
+      "blocks": 40,
+      "atimeMs": 1513610393063.1082,
+      "mtimeMs": 1513610391695.0903,
+      "ctimeMs": 1513610391695.0903,
+      "birthtimeMs": 1513610391695.0903,
+      "atime": "2017-12-18T15:19:53.063Z",
+      "mtime": "2017-12-18T15:19:51.695Z",
+      "ctime": "2017-12-18T15:19:51.695Z",
+      "birthtime": "2017-12-18T15:19:51.695Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24aab68832815618c72a8ecbefc42099",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg",
+      "relativePath": "pic03.jpg",
+      "extension": "jpg",
+      "size": 49012,
+      "prettySize": "49 kB",
+      "modifiedTime": "2017-12-18T19:28:25.117Z",
+      "accessTime": "2017-12-18T19:28:25.129Z",
+      "changeTime": "2017-12-18T19:28:25.125Z",
+      "birthTime": "2017-12-18T19:28:25.125Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "pic03.jpg",
+      "ext": ".jpg",
+      "name": "pic03",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750342,
+      "blocks": 112,
+      "atimeMs": 1513625305128.6633,
+      "mtimeMs": 1513625305116.663,
+      "ctimeMs": 1513625305124.6633,
+      "birthtimeMs": 1513625305124.6633,
+      "atime": "2017-12-18T19:28:25.129Z",
+      "mtime": "2017-12-18T19:28:25.117Z",
+      "ctime": "2017-12-18T19:28:25.125Z",
+      "birthtime": "2017-12-18T19:28:25.125Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg",
+      "relativePath": "pic034.jpg",
+      "extension": "jpg",
+      "size": 9697,
+      "prettySize": "9.7 kB",
+      "modifiedTime": "2017-12-18T18:25:55.665Z",
+      "accessTime": "2017-12-18T18:25:55.702Z",
+      "changeTime": "2017-12-18T18:25:55.662Z",
+      "birthTime": "2017-12-18T18:25:55.662Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "pic034.jpg",
+      "ext": ".jpg",
+      "name": "pic034",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750345,
+      "blocks": 40,
+      "atimeMs": 1513621555701.632,
+      "mtimeMs": 1513621555665,
+      "ctimeMs": 1513621555661.633,
+      "birthtimeMs": 1513621555661.633,
+      "atime": "2017-12-18T18:25:55.702Z",
+      "mtime": "2017-12-18T18:25:55.665Z",
+      "ctime": "2017-12-18T18:25:55.662Z",
+      "birthtime": "2017-12-18T18:25:55.662Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "591afee36fab936683a049c505b4ac2d",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg",
+      "relativePath": "pic01.jpg",
+      "extension": "jpg",
+      "size": 145162,
+      "prettySize": "145 kB",
+      "modifiedTime": "2017-12-18T19:04:30.000Z",
+      "accessTime": "2017-12-18T19:05:22.098Z",
+      "changeTime": "2017-12-18T19:05:22.090Z",
+      "birthTime": "2017-12-18T19:05:22.090Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "pic01.jpg",
+      "ext": ".jpg",
+      "name": "pic01",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7751689,
+      "blocks": 304,
+      "atimeMs": 1513623922097.8152,
+      "mtimeMs": 1513623870000,
+      "ctimeMs": 1513623922089.8152,
+      "birthtimeMs": 1513623922089.8152,
+      "atime": "2017-12-18T19:05:22.098Z",
+      "mtime": "2017-12-18T19:04:30.000Z",
+      "ctime": "2017-12-18T19:05:22.090Z",
+      "birthtime": "2017-12-18T19:05:22.090Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file",
+      "internal": {
+        "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file",
+      "internal": {
+        "contentDigest": "24aab68832815618c72a8ecbefc42099",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d537afae25e1f5de2071ec39e6956980",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file",
+      "internal": {
+        "contentDigest": "591afee36fab936683a049c505b4ac2d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "180f51d086a1d946727c6c858dbc9632",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg",
+      "relativePath": "bg.jpg",
+      "extension": "jpg",
+      "size": 327668,
+      "prettySize": "328 kB",
+      "modifiedTime": "2017-12-06T00:19:28.000Z",
+      "accessTime": "2017-12-18T19:44:23.507Z",
+      "changeTime": "2017-12-18T19:44:23.503Z",
+      "birthTime": "2017-12-18T19:44:23.503Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "bg.jpg",
+      "ext": ".jpg",
+      "name": "bg",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7751702,
+      "blocks": 656,
+      "atimeMs": 1513626263506.7256,
+      "mtimeMs": 1512519568000,
+      "ctimeMs": 1513626263502.7253,
+      "birthtimeMs": 1513626263502.7253,
+      "atime": "2017-12-18T19:44:23.507Z",
+      "mtime": "2017-12-06T00:19:28.000Z",
+      "ctime": "2017-12-18T19:44:23.503Z",
+      "birthtime": "2017-12-18T19:44:23.503Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "180f51d086a1d946727c6c858dbc9632",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "17b3e1aaa6ab5e92fc164e15d9dafc74",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg",
+      "relativePath": "bg2.jpg",
+      "extension": "jpg",
+      "size": 692828,
+      "prettySize": "693 kB",
+      "modifiedTime": "2017-12-18T15:19:51.695Z",
+      "accessTime": "2017-12-18T19:15:56.327Z",
+      "changeTime": "2017-12-18T19:15:56.295Z",
+      "birthTime": "2017-12-18T19:15:56.295Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "bg2.jpg",
+      "ext": ".jpg",
+      "name": "bg2",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750341,
+      "blocks": 1376,
+      "atimeMs": 1513624556326.6643,
+      "mtimeMs": 1513610391695.0903,
+      "ctimeMs": 1513624556294.664,
+      "birthtimeMs": 1513624556294.664,
+      "atime": "2017-12-18T19:15:56.327Z",
+      "mtime": "2017-12-18T15:19:51.695Z",
+      "ctime": "2017-12-18T19:15:56.295Z",
+      "birthtime": "2017-12-18T19:15:56.295Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file",
+      "internal": {
+        "contentDigest": "17b3e1aaa6ab5e92fc164e15d9dafc74",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "68fc020bb8a8946434122011f9a374a4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg",
+      "relativePath": "bg3.jpg",
+      "extension": "jpg",
+      "size": 7213667,
+      "prettySize": "7.21 MB",
+      "modifiedTime": "2017-12-06T00:16:57.000Z",
+      "accessTime": "2017-12-18T19:44:16.883Z",
+      "changeTime": "2017-12-18T19:44:16.879Z",
+      "birthTime": "2017-12-18T19:44:16.879Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "base": "bg3.jpg",
+      "ext": ".jpg",
+      "name": "bg3",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7751694,
+      "blocks": 14112,
+      "atimeMs": 1513626256882.7007,
+      "mtimeMs": 1512519417000,
+      "ctimeMs": 1513626256878.7007,
+      "birthtimeMs": 1513626256878.7007,
+      "atime": "2017-12-18T19:44:16.883Z",
+      "mtime": "2017-12-06T00:16:57.000Z",
+      "ctime": "2017-12-18T19:44:16.879Z",
+      "birthtime": "2017-12-18T19:44:16.879Z"
+    },
+    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file",
+      "internal": {
+        "contentDigest": "68fc020bb8a8946434122011f9a374a4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hello-world/"
+      },
+      "updatedAt": 1513628507712,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "310f3827f2a7b06be940098548d7e6e5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/my-second-post/"
+      },
+      "updatedAt": 1513628507713,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c123d8f84f9956c9baf03e91a741f819",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1513628507720,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ddce5ceeba163eff4f45efb56d8a99f",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "8f0bde91f5024a24228d0b1f9a008057"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/",
+        "/my-second-post/",
+        "/hello-world/",
+        "LAYOUT___index"
+      ],
+      "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
+        "/my-second-post/"
+      ],
+      "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
+      ]
+    },
+    "connections": {}
+  }
+}

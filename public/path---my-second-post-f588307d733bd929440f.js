@@ -1,0 +1,2 @@
+webpackJsonp([5845135763691],{348:function(t,e){t.exports={data:{site:{siteMetadata:{title:"personalWeb",author:"Enrique Rubiong"}},markdownRemark:{id:"/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",html:"<p>Wow! I love blogging so much already.\n</p>",frontmatter:{title:"My Second Post!",date:"May 06, 2015"}}},pathContext:{path:"/my-second-post/"}}}});
+//# sourceMappingURL=path---my-second-post-f588307d733bd929440f.js.map
