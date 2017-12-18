@@ -30,9 +30,9 @@ class Main extends React.Component {
           Fechas: Feb. 2017 – actualidad <br />
           - Metodología scrum <br />
           - servicios soap y Rest <br />
-          - Test: junit, mockito, soapui, karma-jasmine
-          - Coding: Angular, javascript, kotlin-Android, java EE 8, Typescript<br />
-          - Db: firebase, mysql<br />
+          - Test: junit, mockito, soapui, karma-jasmine <br/>
+          - Coding: Angular, javascript, kotlin-Android, java EE 8, Typescript <br />
+          - Db: firebase, mysql <br />
           - Utils: services worker, PWA, jenkins, docker, git, webpack, npm   
           </p>
 
