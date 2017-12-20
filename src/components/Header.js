@@ -3,16 +3,17 @@ import React from 'react'
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
-            
+          <div className="sun">
+             <div className="star"> 
                 <div className="plane main">
                     <div className="circle"></div>
                     <div className="circle"></div>
                     <div className="circle"></div>
                     <div className="circle"></div>
-                    <div className="circle"></div>
-                    <div className="circle"></div>
+                   
                 </div>
-           
+           </div>
+          </div>
         </div>
         <div className="content">
             <div className="inner">

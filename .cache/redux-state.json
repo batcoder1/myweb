@@ -8,7 +8,7 @@
       "component": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513771595511,
+      "updatedAt": 1513781552424,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b613164a04bfbcf52067d11c37bfaf9",
+        "contentDigest": "8dd334c34a26e92411ff4eb761cd3e46",
         "owner": "internal-data-bridge"
       }
     },
@@ -1828,7 +1828,7 @@
       "context": {
         "path": "/hello-world/"
       },
-      "updatedAt": 1513771595607,
+      "updatedAt": 1513781552452,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
@@ -1837,7 +1837,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "109289327d878c3e3a1711e70b229771",
+        "contentDigest": "6233b0d5f114e4646f7fd54348f60508",
         "owner": "internal-data-bridge"
       }
     },
@@ -1851,7 +1851,7 @@
       "context": {
         "path": "/my-second-post/"
       },
-      "updatedAt": 1513771595611,
+      "updatedAt": 1513781552453,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
@@ -1860,7 +1860,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c31ead1292a7fe5a1b3022653c5d8cd2",
+        "contentDigest": "ed0946a50fb643d9292c9cd11af2e8cb",
         "owner": "internal-data-bridge"
       }
     },
@@ -1883,6 +1883,62 @@
         "type": "SitePage",
         "contentDigest": "00c7ff83cc33762e655caf4819e9431b",
         "owner": "internal-data-bridge"
+      }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
+      "children": [
+        "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/sun.png",
+      "relativePath": "sun.png",
+      "extension": "png",
+      "size": 121729,
+      "prettySize": "122 kB",
+      "modifiedTime": "2017-12-20T14:52:32.253Z",
+      "accessTime": "2017-12-20T14:51:26.063Z",
+      "changeTime": "2017-12-20T14:52:32.249Z",
+      "birthTime": "2017-12-20T14:52:32.249Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
+      "base": "sun.png",
+      "ext": ".png",
+      "name": "sun",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4729024,
+      "blocks": 264,
+      "atimeMs": 1513781486063,
+      "mtimeMs": 1513781552253,
+      "ctimeMs": 1513781552249.365,
+      "birthtimeMs": 1513781552249.365,
+      "atime": "2017-12-20T14:51:26.063Z",
+      "mtime": "2017-12-20T14:52:32.253Z",
+      "ctime": "2017-12-20T14:52:32.249Z",
+      "birthtime": "2017-12-20T14:52:32.249Z"
+    },
+    "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
+      "internal": {
+        "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     }
   },
