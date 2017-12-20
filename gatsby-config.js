@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "personalWeb",
-    author: "Enrique Rubiong",
+    title: "Enrique Rubio",
+    author: "Enrique Rubio Sanchez",
     description: ""
   },
   pathPrefix: '/',
