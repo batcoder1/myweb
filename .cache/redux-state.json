@@ -8,7 +8,7 @@
       "component": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513781552424,
+      "updatedAt": 1513783238681,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8dd334c34a26e92411ff4eb761cd3e46",
+        "contentDigest": "834f806c30803feb2b4c474494f8fff3",
         "owner": "internal-data-bridge"
       }
     },
@@ -1002,12 +1002,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-20T12:06:22.880Z",
+      "buildTime": "2017-12-20T15:20:34.722Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "948e533c55253dce50d54cec9a6a3f62",
+        "contentDigest": "db6f694a9d984718c13ae67e3d4acff1",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1332,7 +1332,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "aae2e477c0b0b9182a108afca25d5c04",
+        "contentDigest": "2550976dca2e6eadd0c9b2c4a942d73e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1342,10 +1342,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2017-12-18T19:44:23.503Z",
-      "accessTime": "2017-12-20T11:05:51.944Z",
-      "changeTime": "2017-12-18T19:44:23.503Z",
-      "birthTime": "2017-12-18T19:44:23.503Z",
+      "modifiedTime": "2017-12-20T14:52:32.241Z",
+      "accessTime": "2017-12-20T14:52:32.249Z",
+      "changeTime": "2017-12-20T14:52:32.241Z",
+      "birthTime": "2017-12-20T14:52:32.241Z",
       "root": "/",
       "dir": "/home/kike/workspace/my-personal-web/src",
       "base": "images",
@@ -1361,14 +1361,14 @@
       "blksize": 4096,
       "ino": 7750340,
       "blocks": 8,
-      "atimeMs": 1513767951944.389,
-      "mtimeMs": 1513626263502.7253,
-      "ctimeMs": 1513626263502.7253,
-      "birthtimeMs": 1513626263502.7253,
-      "atime": "2017-12-20T11:05:51.944Z",
-      "mtime": "2017-12-18T19:44:23.503Z",
-      "ctime": "2017-12-18T19:44:23.503Z",
-      "birthtime": "2017-12-18T19:44:23.503Z"
+      "atimeMs": 1513781552249.365,
+      "mtimeMs": 1513781552241.3647,
+      "ctimeMs": 1513781552241.3647,
+      "birthtimeMs": 1513781552241.3647,
+      "atime": "2017-12-20T14:52:32.249Z",
+      "mtime": "2017-12-20T14:52:32.241Z",
+      "ctime": "2017-12-20T14:52:32.241Z",
+      "birthtime": "2017-12-20T14:52:32.241Z"
     },
     "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file",
@@ -1818,73 +1818,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "path": "/hello-world/"
-      },
-      "updatedAt": 1513781552452,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6233b0d5f114e4646f7fd54348f60508",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /my-second-post/": {
-      "layout": "index",
-      "jsonName": "my-second-post.json",
-      "internalComponentName": "ComponentMySecondPost",
-      "path": "/my-second-post/",
-      "component": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "path": "/my-second-post/"
-      },
-      "updatedAt": 1513781552453,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
-      "id": "SitePage /my-second-post/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ed0946a50fb643d9292c9cd11af2e8cb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/home/kike/workspace/my-personal-web/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1513771595702,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/home/kike/workspace/my-personal-web/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "00c7ff83cc33762e655caf4819e9431b",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
       "children": [
@@ -1939,6 +1872,73 @@
         "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hello-world/"
+      },
+      "updatedAt": 1513783238705,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "666b2329b0267e3cfd166fdce3d5c00c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/my-second-post/"
+      },
+      "updatedAt": 1513783238706,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ff401d2444028581e6d08c9f9c05f8cc",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/kike/workspace/my-personal-web/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1513783238716,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/kike/workspace/my-personal-web/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "238a86ac3917b46d2e7832497304ab2c",
+        "owner": "internal-data-bridge"
       }
     }
   },
