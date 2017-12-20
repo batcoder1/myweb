@@ -1,5 +1,5 @@
 var plugins = [{
-      plugin: require('/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/kike/workspace/gatsby-starter-dimension/.cache/dev-404-page.js",
+      "component": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513636516005,
+      "updatedAt": 1513771595511,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/.cache/dev-404-page.js",
+      "componentPath": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d2115e2f433247f6b7678b866b766df",
+        "contentDigest": "3b613164a04bfbcf52067d11c37bfaf9",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -32,7 +32,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -53,13 +53,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c79fd99c9b848394864c88816b766bef",
+        "contentDigest": "66f247df9effc9ecfadb02a00fce194f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b55066a3438fa27b4dd0a30a47a18312",
+        "contentDigest": "42a7411640946ff78b2326049bf69059",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -107,7 +107,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -124,13 +124,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6d28e309259fdfdf4823abaa7b38c6f9",
+        "contentDigest": "f4a13b7ee81383dee44b7dc6ebc38ad8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -157,13 +157,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cade4facf6fe2dd0679784343ae9c51a",
+        "contentDigest": "a9acbdf174d3260389ece8f4e910f02e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +173,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f92fec799dc2159f26d9a7aa5687389c",
+        "contentDigest": "bbff65e75602bdad89fb13ca312f5fee",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +207,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,25 +224,25 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7b015ebe22f1cfd40131ebed3d93934c",
+        "contentDigest": "7f9c59a35dc425c80c09daa9caf1d7de",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-source-filesystem",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.5.11",
       "pluginOptions": {
         "plugins": [],
         "name": "images",
-        "path": "/home/kike/workspace/gatsby-starter-dimension/src/images"
+        "path": "/home/kike/workspace/my-personal-web/src/images"
       },
       "nodeAPIs": [
         "sourceNodes"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -312,51 +312,40 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "faf0600e1a1d3d011745ec651f926229",
+        "contentDigest": "8c861b690805e37a2e8cd068c6ea9ddb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-remark",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.25",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images",
+            "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
             "version": "1.5.36",
             "pluginOptions": {
               "plugins": [],
-              "maxWidth": 630,
-              "wrapperStyle": "",
-              "backgroundColor": "white",
-              "linkImagesToOriginal": true,
-              "pathPrefix": ""
+              "maxWidth": 630
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files",
+            "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-copy-linked-files",
             "id": "Plugin gatsby-remark-copy-linked-files",
             "name": "gatsby-remark-copy-linked-files",
             "version": "1.5.24",
             "pluginOptions": {
-              "plugins": [],
-              "ignoreFileExtensions": [
-                "png",
-                "jpg",
-                "jpeg",
-                "bmp",
-                "tiff"
-              ]
+              "plugins": []
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files"
+            "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-copy-linked-files"
           }
         ]
       },
@@ -364,7 +353,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -468,26 +457,22 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "831c64bc967f1f5daeaac3817096043a",
+        "contentDigest": "a787bfd6c32941dbcc2a33aa2f9ca829",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
       "version": "1.5.36",
       "pluginOptions": {
         "plugins": [],
-        "maxWidth": 630,
-        "wrapperStyle": "",
-        "backgroundColor": "white",
-        "linkImagesToOriginal": true,
-        "pathPrefix": ""
+        "maxWidth": 630
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -550,28 +535,21 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "22ab0a437b4435f09692e2e4e80d9a8e",
+        "contentDigest": "9211efef6ab345aa9f1905c024a6e6ad",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-copy-linked-files": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-copy-linked-files",
       "id": "Plugin gatsby-remark-copy-linked-files",
       "name": "gatsby-remark-copy-linked-files",
       "version": "1.5.24",
       "pluginOptions": {
-        "plugins": [],
-        "ignoreFileExtensions": [
-          "png",
-          "jpg",
-          "jpeg",
-          "bmp",
-          "tiff"
-        ]
+        "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-remark-copy-linked-files",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-copy-linked-files",
       "packageJson": {
         "name": "gatsby-remark-copy-linked-files",
         "description": "Find files which are linked to from markdown and copy them to the public directory",
@@ -636,13 +614,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "653bc39a50da0a8ca05155bc0afb8680",
+        "contentDigest": "9deae3c95dd06459aaf5f76bb13c4a19",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-sharp": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-sharp",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-transformer-sharp",
       "id": "Plugin gatsby-transformer-sharp",
       "name": "gatsby-transformer-sharp",
       "version": "1.6.16",
@@ -654,7 +632,7 @@
         "setFieldsOnGraphQLNodeType",
         "onPreExtractQueries"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -702,13 +680,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5c24401815e786c414c05d5bd33f90ab",
+        "contentDigest": "f71aacddbeb954cec393f97534817141",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sharp",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
       "version": "1.6.24",
@@ -716,7 +694,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -796,13 +774,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "16ddbf7bd8f30723c227a6fa484567d1",
+        "contentDigest": "77251f45b8f2a9c19ad0fe41453cf563",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.8",
@@ -810,7 +788,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -848,13 +826,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d08e8f381edbce263edee1826d34fcc3",
+        "contentDigest": "fcbafda6aec568bc76428a0d7f1f587d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sass": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sass",
+      "resolve": "/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
       "version": "1.0.15",
@@ -864,7 +842,7 @@
       "nodeAPIs": [
         "modifyWebpackConfig"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -920,13 +898,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "810d05022c5eed2295124d0349e73766",
+        "contentDigest": "a527ae9cb1c60f3c1827cd4286cfa597",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/home/kike/workspace/gatsby-starter-dimension",
+      "resolve": "/home/kike/workspace/my-personal-web",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "a28e1a9b44708553b9f1aefd91108d7f",
@@ -936,7 +914,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/home/kike/workspace/gatsby-starter-dimension",
+      "pluginFilepath": "/home/kike/workspace/my-personal-web",
       "packageJson": {
         "name": "my-personal-web",
         "description": "my personal web with Gatsby",
@@ -1009,7 +987,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "84ec0b3f75e42e8e3fb09bbe5777a080",
+        "contentDigest": "ff50430fe1332cd1f1898c1854671fda",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1024,37 +1002,37 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-18T22:35:12.741Z",
+      "buildTime": "2017-12-20T12:06:22.880Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "109f02647a61d5dd09b36879ede4a4ce",
+        "contentDigest": "948e533c55253dce50d54cec9a6a3f62",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts absPath of file",
+    "/home/kike/workspace/my-personal-web/src/posts absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7482a3927656b027d324aa241a125e52",
+        "contentDigest": "e40cf536cb3709ac9a644319fbcbaecf",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/posts",
       "relativePath": "",
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T20:03:24.909Z",
-      "accessTime": "2017-12-18T20:03:24.913Z",
+      "accessTime": "2017-12-20T11:05:51.944Z",
       "changeTime": "2017-12-18T20:03:24.909Z",
       "birthTime": "2017-12-18T20:03:24.909Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src",
+      "dir": "/home/kike/workspace/my-personal-web/src",
       "base": "posts",
       "ext": "",
       "name": "posts",
@@ -1068,36 +1046,36 @@
       "blksize": 4096,
       "ino": 7750350,
       "blocks": 8,
-      "atimeMs": 1513627404912.9878,
+      "atimeMs": 1513767951944.389,
       "mtimeMs": 1513627404908.9878,
       "ctimeMs": 1513627404908.9878,
       "birthtimeMs": 1513627404908.9878,
-      "atime": "2017-12-18T20:03:24.913Z",
+      "atime": "2017-12-20T11:05:51.944Z",
       "mtime": "2017-12-18T20:03:24.909Z",
       "ctime": "2017-12-18T20:03:24.909Z",
       "birthtime": "2017-12-18T20:03:24.909Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world absPath of file",
+    "/home/kike/workspace/my-personal-web/src/posts/hello-world absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/hello-world absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c7a3574c2260b3ada89e15e05bd2a2cf",
+        "contentDigest": "4d4370d74bbf765408930dbd341a8118",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/posts/hello-world",
       "relativePath": "hello-world",
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T15:19:51.695Z",
-      "accessTime": "2017-12-18T15:19:51.731Z",
+      "accessTime": "2017-12-20T11:05:51.968Z",
       "changeTime": "2017-12-18T15:19:51.695Z",
       "birthTime": "2017-12-18T15:19:51.695Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts",
+      "dir": "/home/kike/workspace/my-personal-web/src/posts",
       "base": "hello-world",
       "ext": "",
       "name": "hello-world",
@@ -1111,36 +1089,36 @@
       "blksize": 4096,
       "ino": 7750351,
       "blocks": 8,
-      "atimeMs": 1513610391731.0908,
+      "atimeMs": 1513767951968.389,
       "mtimeMs": 1513610391695.0903,
       "ctimeMs": 1513610391695.0903,
       "birthtimeMs": 1513610391695.0903,
-      "atime": "2017-12-18T15:19:51.731Z",
+      "atime": "2017-12-20T11:05:51.968Z",
       "mtime": "2017-12-18T15:19:51.695Z",
       "ctime": "2017-12-18T15:19:51.695Z",
       "birthtime": "2017-12-18T15:19:51.695Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post absPath of file",
+    "/home/kike/workspace/my-personal-web/src/posts/my-second-post absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/my-second-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "50caabc10245ad9047306b9af204f886",
+        "contentDigest": "8add604abce691b3e678645950972f2d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/posts/my-second-post",
       "relativePath": "my-second-post",
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T15:19:51.699Z",
-      "accessTime": "2017-12-18T15:19:51.731Z",
+      "accessTime": "2017-12-20T11:05:51.968Z",
       "changeTime": "2017-12-18T15:19:51.699Z",
       "birthTime": "2017-12-18T15:19:51.699Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts",
+      "dir": "/home/kike/workspace/my-personal-web/src/posts",
       "base": "my-second-post",
       "ext": "",
       "name": "my-second-post",
@@ -1154,19 +1132,19 @@
       "blksize": 4096,
       "ino": 7750356,
       "blocks": 8,
-      "atimeMs": 1513610391731.0908,
+      "atimeMs": 1513767951968.389,
       "mtimeMs": 1513610391699.0906,
       "ctimeMs": 1513610391699.0906,
       "birthtimeMs": 1513610391699.0906,
-      "atime": "2017-12-18T15:19:51.731Z",
+      "atime": "2017-12-20T11:05:51.968Z",
       "mtime": "2017-12-18T15:19:51.699Z",
       "ctime": "2017-12-18T15:19:51.699Z",
       "birthtime": "2017-12-18T15:19:51.699Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file",
+    "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+        "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1176,17 +1154,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md",
       "relativePath": "hello-world/index.md",
       "extension": "md",
       "size": 181,
       "prettySize": "181 B",
       "modifiedTime": "2017-12-18T20:03:42.277Z",
-      "accessTime": "2017-12-18T20:03:42.281Z",
+      "accessTime": "2017-12-20T11:05:51.972Z",
       "changeTime": "2017-12-18T20:03:42.277Z",
       "birthTime": "2017-12-18T20:03:42.277Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world",
+      "dir": "/home/kike/workspace/my-personal-web/src/posts/hello-world",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1200,19 +1178,19 @@
       "blksize": 4096,
       "ino": 7750352,
       "blocks": 24,
-      "atimeMs": 1513627422281.098,
+      "atimeMs": 1513767951972.389,
       "mtimeMs": 1513627422277.098,
       "ctimeMs": 1513627422277.098,
       "birthtimeMs": 1513627422277.098,
-      "atime": "2017-12-18T20:03:42.281Z",
+      "atime": "2017-12-20T11:05:51.972Z",
       "mtime": "2017-12-18T20:03:42.277Z",
       "ctime": "2017-12-18T20:03:42.277Z",
       "birthtime": "2017-12-18T20:03:42.277Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file",
+    "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark"
+        "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1222,17 +1200,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md",
       "relativePath": "my-second-post/index.md",
       "extension": "md",
       "size": 130,
       "prettySize": "130 B",
       "modifiedTime": "2017-12-18T20:03:42.277Z",
-      "accessTime": "2017-12-18T20:03:42.281Z",
+      "accessTime": "2017-12-20T11:05:51.972Z",
       "changeTime": "2017-12-18T20:03:42.277Z",
       "birthTime": "2017-12-18T20:03:42.277Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post",
+      "dir": "/home/kike/workspace/my-personal-web/src/posts/my-second-post",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1246,19 +1224,19 @@
       "blksize": 4096,
       "ino": 7750357,
       "blocks": 24,
-      "atimeMs": 1513627422281.098,
+      "atimeMs": 1513767951972.389,
       "mtimeMs": 1513627422277.098,
       "ctimeMs": 1513627422277.098,
       "birthtimeMs": 1513627422277.098,
-      "atime": "2017-12-18T20:03:42.281Z",
+      "atime": "2017-12-20T11:05:51.972Z",
       "mtime": "2017-12-18T20:03:42.277Z",
       "ctime": "2017-12-18T20:03:42.277Z",
       "birthtime": "2017-12-18T20:03:42.277Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
+    "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file",
       "internal": {
         "content": "---\ntitle: Hello World\ndate: \"2015-05-01T22:12:03.284Z\"\npath: \"/hello-world/\"\n---\n\nThis is my first post on my new fake blog! How exciting!\n\n\n\n![Chinese Salty Egg](./salty_egg.jpg)\n",
         "contentDigest": "a359ad56a202874fb018068248a0a7c2",
@@ -1269,15 +1247,15 @@
         "title": "Hello World",
         "date": "2015-05-01T22:12:03.284Z",
         "path": "/hello-world/",
-        "_PARENT": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file",
-        "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file"
+        "_PARENT": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file",
+        "parent": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file"
       },
-      "fileAbsolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md"
+      "fileAbsolutePath": "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
+    "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file",
       "internal": {
         "content": "---\ntitle: My Second Post!\ndate: \"2015-05-06T23:46:37.121Z\"\npath: \"/my-second-post/\"\n---\n\nWow! I love blogging so much already.\n  ",
         "contentDigest": "9d948952de58846c2775b59807f4cb92",
@@ -1288,15 +1266,15 @@
         "title": "My Second Post!",
         "date": "2015-05-06T23:46:37.121Z",
         "path": "/my-second-post/",
-        "_PARENT": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file",
-        "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file"
+        "_PARENT": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file",
+        "parent": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file"
       },
-      "fileAbsolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md"
+      "fileAbsolutePath": "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1306,17 +1284,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg",
       "relativePath": "hello-world/salty_egg.jpg",
       "extension": "jpg",
       "size": 684322,
       "prettySize": "684 kB",
       "modifiedTime": "2017-12-18T15:19:51.695Z",
-      "accessTime": "2017-12-18T15:22:12.873Z",
+      "accessTime": "2017-12-20T11:05:51.972Z",
       "changeTime": "2017-12-18T15:19:51.695Z",
       "birthTime": "2017-12-18T15:19:51.695Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world",
+      "dir": "/home/kike/workspace/my-personal-web/src/posts/hello-world",
       "base": "salty_egg.jpg",
       "ext": ".jpg",
       "name": "salty_egg",
@@ -1330,46 +1308,46 @@
       "blksize": 4096,
       "ino": 7750353,
       "blocks": 1360,
-      "atimeMs": 1513610532872.9072,
+      "atimeMs": 1513767951972.389,
       "mtimeMs": 1513610391695.0903,
       "ctimeMs": 1513610391695.0903,
       "birthtimeMs": 1513610391695.0903,
-      "atime": "2017-12-18T15:22:12.873Z",
+      "atime": "2017-12-20T11:05:51.972Z",
       "mtime": "2017-12-18T15:19:51.695Z",
       "ctime": "2017-12-18T15:19:51.695Z",
       "birthtime": "2017-12-18T15:19:51.695Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp",
+    "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/salty_egg.jpg absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/posts/hello-world/salty_egg.jpg absPath of file",
       "internal": {
         "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9b0dff5cba95953199dea7dae131ae59",
+        "contentDigest": "aae2e477c0b0b9182a108afca25d5c04",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images",
       "relativePath": "",
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T19:44:23.503Z",
-      "accessTime": "2017-12-18T19:44:23.811Z",
+      "accessTime": "2017-12-20T11:05:51.944Z",
       "changeTime": "2017-12-18T19:44:23.503Z",
       "birthTime": "2017-12-18T19:44:23.503Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src",
+      "dir": "/home/kike/workspace/my-personal-web/src",
       "base": "images",
       "ext": "",
       "name": "images",
@@ -1383,19 +1361,19 @@
       "blksize": 4096,
       "ino": 7750340,
       "blocks": 8,
-      "atimeMs": 1513626263810.7266,
+      "atimeMs": 1513767951944.389,
       "mtimeMs": 1513626263502.7253,
       "ctimeMs": 1513626263502.7253,
       "birthtimeMs": 1513626263502.7253,
-      "atime": "2017-12-18T19:44:23.811Z",
+      "atime": "2017-12-20T11:05:51.944Z",
       "mtime": "2017-12-18T19:44:23.503Z",
       "ctime": "2017-12-18T19:44:23.503Z",
       "birthtime": "2017-12-18T19:44:23.503Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1405,17 +1383,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/overlay.png",
       "relativePath": "overlay.png",
       "extension": "png",
       "size": 4385,
       "prettySize": "4.38 kB",
       "modifiedTime": "2017-12-18T18:22:49.663Z",
-      "accessTime": "2017-12-18T18:23:02.035Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T18:23:02.031Z",
       "birthTime": "2017-12-18T18:23:02.031Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "overlay.png",
       "ext": ".png",
       "name": "overlay",
@@ -1429,19 +1407,29 @@
       "blksize": 4096,
       "ino": 4728678,
       "blocks": 40,
-      "atimeMs": 1513621382035.3105,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1513621369663.061,
       "ctimeMs": 1513621382031.3105,
       "birthtimeMs": 1513621382031.3105,
-      "atime": "2017-12-18T18:23:02.035Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-18T18:22:49.663Z",
       "ctime": "2017-12-18T18:23:02.031Z",
       "birthtime": "2017-12-18T18:23:02.031Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1451,17 +1439,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/pic02.jpg",
       "relativePath": "pic02.jpg",
       "extension": "jpg",
       "size": 8904,
       "prettySize": "8.9 kB",
       "modifiedTime": "2017-12-18T15:19:51.695Z",
-      "accessTime": "2017-12-18T15:19:53.063Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T15:19:51.695Z",
       "birthTime": "2017-12-18T15:19:51.695Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "pic02.jpg",
       "ext": ".jpg",
       "name": "pic02",
@@ -1475,19 +1463,19 @@
       "blksize": 4096,
       "ino": 7750344,
       "blocks": 40,
-      "atimeMs": 1513610393063.1082,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1513610391695.0903,
       "ctimeMs": 1513610391695.0903,
       "birthtimeMs": 1513610391695.0903,
-      "atime": "2017-12-18T15:19:53.063Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-18T15:19:51.695Z",
       "ctime": "2017-12-18T15:19:51.695Z",
       "birthtime": "2017-12-18T15:19:51.695Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1497,17 +1485,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg",
       "relativePath": "pic03.jpg",
       "extension": "jpg",
       "size": 49012,
       "prettySize": "49 kB",
       "modifiedTime": "2017-12-18T19:28:25.117Z",
-      "accessTime": "2017-12-18T19:28:25.129Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T19:28:25.125Z",
       "birthTime": "2017-12-18T19:28:25.125Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "pic03.jpg",
       "ext": ".jpg",
       "name": "pic03",
@@ -1521,19 +1509,19 @@
       "blksize": 4096,
       "ino": 7750342,
       "blocks": 112,
-      "atimeMs": 1513625305128.6633,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1513625305116.663,
       "ctimeMs": 1513625305124.6633,
       "birthtimeMs": 1513625305124.6633,
-      "atime": "2017-12-18T19:28:25.129Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-18T19:28:25.117Z",
       "ctime": "2017-12-18T19:28:25.125Z",
       "birthtime": "2017-12-18T19:28:25.125Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1543,17 +1531,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/pic034.jpg",
       "relativePath": "pic034.jpg",
       "extension": "jpg",
       "size": 9697,
       "prettySize": "9.7 kB",
       "modifiedTime": "2017-12-18T18:25:55.665Z",
-      "accessTime": "2017-12-18T18:25:55.702Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T18:25:55.662Z",
       "birthTime": "2017-12-18T18:25:55.662Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "pic034.jpg",
       "ext": ".jpg",
       "name": "pic034",
@@ -1567,29 +1555,39 @@
       "blksize": 4096,
       "ino": 7750345,
       "blocks": 40,
-      "atimeMs": 1513621555701.632,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1513621555665,
       "ctimeMs": 1513621555661.633,
       "birthtimeMs": 1513621555661.633,
-      "atime": "2017-12-18T18:25:55.702Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-18T18:25:55.665Z",
       "ctime": "2017-12-18T18:25:55.662Z",
       "birthtime": "2017-12-18T18:25:55.662Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file >> ImageSharp",
+    "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/overlay.png absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file",
       "internal": {
-        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file",
+      "internal": {
+        "contentDigest": "24aab68832815618c72a8ecbefc42099",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1599,17 +1597,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/pic01.jpg",
       "relativePath": "pic01.jpg",
       "extension": "jpg",
       "size": 145162,
       "prettySize": "145 kB",
       "modifiedTime": "2017-12-18T19:04:30.000Z",
-      "accessTime": "2017-12-18T19:05:22.098Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T19:05:22.090Z",
       "birthTime": "2017-12-18T19:05:22.090Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "pic01.jpg",
       "ext": ".jpg",
       "name": "pic01",
@@ -1623,59 +1621,29 @@
       "blksize": 4096,
       "ino": 7751689,
       "blocks": 304,
-      "atimeMs": 1513623922097.8152,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1513623870000,
       "ctimeMs": 1513623922089.8152,
       "birthtimeMs": 1513623922089.8152,
-      "atime": "2017-12-18T19:05:22.098Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-18T19:04:30.000Z",
       "ctime": "2017-12-18T19:05:22.090Z",
       "birthtime": "2017-12-18T19:05:22.090Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file >> ImageSharp",
+    "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic02.jpg absPath of file",
-      "internal": {
-        "contentDigest": "4528ad9f4ac47247d0e81d536ab02791",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic03.jpg absPath of file",
-      "internal": {
-        "contentDigest": "24aab68832815618c72a8ecbefc42099",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic034.jpg absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file",
       "internal": {
         "contentDigest": "d537afae25e1f5de2071ec39e6956980",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/pic01.jpg absPath of file",
-      "internal": {
-        "contentDigest": "591afee36fab936683a049c505b4ac2d",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1685,17 +1653,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/bg.jpg",
       "relativePath": "bg.jpg",
       "extension": "jpg",
       "size": 327668,
       "prettySize": "328 kB",
       "modifiedTime": "2017-12-06T00:19:28.000Z",
-      "accessTime": "2017-12-18T19:44:23.507Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T19:44:23.503Z",
       "birthTime": "2017-12-18T19:44:23.503Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "bg.jpg",
       "ext": ".jpg",
       "name": "bg",
@@ -1709,29 +1677,39 @@
       "blksize": 4096,
       "ino": 7751702,
       "blocks": 656,
-      "atimeMs": 1513626263506.7256,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1512519568000,
       "ctimeMs": 1513626263502.7253,
       "birthtimeMs": 1513626263502.7253,
-      "atime": "2017-12-18T19:44:23.507Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-06T00:19:28.000Z",
       "ctime": "2017-12-18T19:44:23.503Z",
       "birthtime": "2017-12-18T19:44:23.503Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file >> ImageSharp",
+    "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg.jpg absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file",
+      "internal": {
+        "contentDigest": "591afee36fab936683a049c505b4ac2d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file",
       "internal": {
         "contentDigest": "180f51d086a1d946727c6c858dbc9632",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/bg2.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/bg2.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/bg2.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1741,17 +1719,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/bg2.jpg",
       "relativePath": "bg2.jpg",
       "extension": "jpg",
       "size": 692828,
       "prettySize": "693 kB",
       "modifiedTime": "2017-12-18T15:19:51.695Z",
-      "accessTime": "2017-12-18T19:15:56.327Z",
+      "accessTime": "2017-12-20T11:05:51.948Z",
       "changeTime": "2017-12-18T19:15:56.295Z",
       "birthTime": "2017-12-18T19:15:56.295Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "bg2.jpg",
       "ext": ".jpg",
       "name": "bg2",
@@ -1765,29 +1743,29 @@
       "blksize": 4096,
       "ino": 7750341,
       "blocks": 1376,
-      "atimeMs": 1513624556326.6643,
+      "atimeMs": 1513767951948.389,
       "mtimeMs": 1513610391695.0903,
       "ctimeMs": 1513624556294.664,
       "birthtimeMs": 1513624556294.664,
-      "atime": "2017-12-18T19:15:56.327Z",
+      "atime": "2017-12-20T11:05:51.948Z",
       "mtime": "2017-12-18T15:19:51.695Z",
       "ctime": "2017-12-18T19:15:56.295Z",
       "birthtime": "2017-12-18T19:15:56.295Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file >> ImageSharp",
+    "/home/kike/workspace/my-personal-web/src/images/bg2.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/bg2.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg2.jpg absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/images/bg2.jpg absPath of file",
       "internal": {
         "contentDigest": "17b3e1aaa6ab5e92fc164e15d9dafc74",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file",
+    "/home/kike/workspace/my-personal-web/src/images/bg3.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/bg3.jpg absPath of file",
       "children": [
-        "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file >> ImageSharp"
+        "/home/kike/workspace/my-personal-web/src/images/bg3.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1797,17 +1775,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/bg3.jpg",
       "relativePath": "bg3.jpg",
       "extension": "jpg",
       "size": 7213667,
       "prettySize": "7.21 MB",
       "modifiedTime": "2017-12-06T00:16:57.000Z",
-      "accessTime": "2017-12-18T19:44:16.883Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
       "changeTime": "2017-12-18T19:44:16.879Z",
       "birthTime": "2017-12-18T19:44:16.879Z",
       "root": "/",
-      "dir": "/home/kike/workspace/gatsby-starter-dimension/src/images",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
       "base": "bg3.jpg",
       "ext": ".jpg",
       "name": "bg3",
@@ -1821,19 +1799,19 @@
       "blksize": 4096,
       "ino": 7751694,
       "blocks": 14112,
-      "atimeMs": 1513626256882.7007,
+      "atimeMs": 1513767951952.389,
       "mtimeMs": 1512519417000,
       "ctimeMs": 1513626256878.7007,
       "birthtimeMs": 1513626256878.7007,
-      "atime": "2017-12-18T19:44:16.883Z",
+      "atime": "2017-12-20T11:05:51.952Z",
       "mtime": "2017-12-06T00:16:57.000Z",
       "ctime": "2017-12-18T19:44:16.879Z",
       "birthtime": "2017-12-18T19:44:16.879Z"
     },
-    "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file >> ImageSharp",
+    "/home/kike/workspace/my-personal-web/src/images/bg3.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/bg3.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/home/kike/workspace/gatsby-starter-dimension/src/images/bg3.jpg absPath of file",
+      "parent": "/home/kike/workspace/my-personal-web/src/images/bg3.jpg absPath of file",
       "internal": {
         "contentDigest": "68fc020bb8a8946434122011f9a374a4",
         "type": "ImageSharp",
@@ -1845,21 +1823,21 @@
       "jsonName": "hello-world.json",
       "internalComponentName": "ComponentHelloWorld",
       "path": "/hello-world/",
-      "component": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "component": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "path": "/hello-world/"
       },
-      "updatedAt": 1513636516035,
+      "updatedAt": 1513771595607,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
       "id": "SitePage /hello-world/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "527f3ad1b7dfbe5aad05ba81c09c3d56",
+        "contentDigest": "109289327d878c3e3a1711e70b229771",
         "owner": "internal-data-bridge"
       }
     },
@@ -1868,21 +1846,21 @@
       "jsonName": "my-second-post.json",
       "internalComponentName": "ComponentMySecondPost",
       "path": "/my-second-post/",
-      "component": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "component": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "path": "/my-second-post/"
       },
-      "updatedAt": 1513636516037,
+      "updatedAt": 1513771595611,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/templates/blog-post.js",
+      "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
       "id": "SitePage /my-second-post/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "387b5e63adff80264fd6112e87dd7ff4",
+        "contentDigest": "c31ead1292a7fe5a1b3022653c5d8cd2",
         "owner": "internal-data-bridge"
       }
     },
@@ -1891,19 +1869,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
+      "component": "/home/kike/workspace/my-personal-web/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513636516050,
+      "updatedAt": 1513771595702,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/home/kike/workspace/gatsby-starter-dimension/src/pages/index.js",
+      "componentPath": "/home/kike/workspace/my-personal-web/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "60e5cd0a4bed1ab4dc6a569424b59dfa",
+        "contentDigest": "00c7ff83cc33762e655caf4819e9431b",
         "owner": "internal-data-bridge"
       }
     }
@@ -1920,10 +1898,10 @@
         "/hello-world/",
         "LAYOUT___index"
       ],
-      "/home/kike/workspace/gatsby-starter-dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
+      "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
         "/my-second-post/"
       ],
-      "/home/kike/workspace/gatsby-starter-dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
+      "/home/kike/workspace/my-personal-web/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
         "/hello-world/"
       ]
     },

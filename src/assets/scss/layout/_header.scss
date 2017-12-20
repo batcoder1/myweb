@@ -23,6 +23,16 @@
         transform:rotate(360deg);
     }
 }
+	  
+@keyframes rotate {
+	0% {
+	  transform: rotateX(0) rotateY(0) rotateZ(0);
+	}
+  
+	100% {
+	  transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+	}
+  }
 /* Header */
 
 	#header {
@@ -67,36 +77,43 @@
 		}
 
 		.logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
-			border: solid _size(border-width) _palette(border);
+			width: $side;
+			height: $side;
+			line-height: $side;
+			border: solid _size(border-width) #dc5314;
 			border-radius: 100%;
-			 color: #c4b7a9;
-			-webkit-animation-name: spin;
-			-webkit-animation-duration: 4000ms;
-			-webkit-animation-iteration-count: infinite;
-			-webkit-animation-timing-function: linear;
-			-moz-animation-name: spin;
-			-moz-animation-duration: 4000ms;
-			-moz-animation-iteration-count: infinite;
-			-moz-animation-timing-function: linear;
-			-ms-animation-name: spin;
-			-ms-animation-duration: 4000ms;
-			-ms-animation-iteration-count: infinite;
-			-ms-animation-timing-function: linear;
-			animation-name: spin;
-			animation-duration: 4000ms;
-			animation-iteration-count: infinite;
-			animation-timing-function: linear;
-			.icon {
-			 
-			
-				&:before {
-					font-size: 2rem;
-				
+			.plane {
+				@include plane($side, $side);
+			  
+				&.main {
+				  @include center;
+			  
+				  transform: rotateX(60deg) rotateZ(-30deg);
+				  animation: rotate 20s infinite linear;
+			  
+				  .circle {
+					width: $side;
+					height: $side;
+					position: absolute;
+					transform-style: preserve-3d;
+					border-radius: 100%;
+			  
+					//border: 2px solid white
+					box-sizing: border-box;
+					box-shadow: 0 0 60px rgba(#dc5314, 1), inset 0 0 60px rgba(#dc6414, 1);
+			  
+					 
+			  
+					@for $i from 1 through 5 {
+					  &:nth-child(#{$i}) {
+						transform: rotateZ($i / 5 * 360deg) rotateX(63.435deg);
+					  }
+					}
+				  }
 				}
-			}
+			  }
+ 
+			 
 		}
 
 		.content {
