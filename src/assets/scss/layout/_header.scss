@@ -38,7 +38,7 @@
 	100%   { transform: rotate(-360deg); }
   }
 
-  @-webkit-keyframes neon1 {
+  @keyframes neon1 {
 	from {
 	  text-shadow: 0 0 10px #fff,
 				 0 0 20px  #fff,
