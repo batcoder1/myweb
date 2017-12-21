@@ -8,7 +8,7 @@
       "component": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513783238681,
+      "updatedAt": 1513859939268,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/kike/workspace/my-personal-web/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "834f806c30803feb2b4c474494f8fff3",
+        "contentDigest": "961298d6e750313bcb61388c200968b1",
         "owner": "internal-data-bridge"
       }
     },
@@ -331,7 +331,11 @@
             "version": "1.5.36",
             "pluginOptions": {
               "plugins": [],
-              "maxWidth": 630
+              "maxWidth": 630,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "pathPrefix": ""
             },
             "nodeAPIs": [],
             "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-images"
@@ -342,7 +346,14 @@
             "name": "gatsby-remark-copy-linked-files",
             "version": "1.5.24",
             "pluginOptions": {
-              "plugins": []
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
             },
             "nodeAPIs": [],
             "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-copy-linked-files"
@@ -469,7 +480,11 @@
       "version": "1.5.36",
       "pluginOptions": {
         "plugins": [],
-        "maxWidth": 630
+        "maxWidth": 630,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "pathPrefix": ""
       },
       "nodeAPIs": [],
       "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-images",
@@ -546,7 +561,14 @@
       "name": "gatsby-remark-copy-linked-files",
       "version": "1.5.24",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
       },
       "nodeAPIs": [],
       "pluginFilepath": "/home/kike/workspace/my-personal-web/node_modules/gatsby-remark-copy-linked-files",
@@ -907,7 +929,7 @@
       "resolve": "/home/kike/workspace/my-personal-web",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a28e1a9b44708553b9f1aefd91108d7f",
+      "version": "0517e7d183df1bb8b2fe228b11e4859d",
       "pluginOptions": {
         "plugins": []
       },
@@ -916,8 +938,8 @@
       ],
       "pluginFilepath": "/home/kike/workspace/my-personal-web",
       "packageJson": {
-        "name": "my-personal-web",
-        "description": "my personal web with Gatsby",
+        "name": "enrique-rubio-sanchez-web",
+        "description": "Enrique Rubio Sanchez web",
         "version": "1.0.0",
         "main": "n/a",
         "keywords": [
@@ -987,27 +1009,27 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ff50430fe1332cd1f1898c1854671fda",
+        "contentDigest": "863677eaffb7ede9f176cf1d7e5b68c5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
       "siteMetadata": {
-        "title": "personalWeb",
-        "author": "Enrique Rubiong",
+        "title": "Enrique Rubio",
+        "author": "Enrique Rubio Sanchez",
         "description": ""
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-20T15:20:34.722Z",
+      "buildTime": "2017-12-21T12:38:55.844Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "db6f694a9d984718c13ae67e3d4acff1",
+        "contentDigest": "1a8b751ad5121f4d69966e8397f56e27",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1017,7 +1039,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e40cf536cb3709ac9a644319fbcbaecf",
+        "contentDigest": "86eb5427c557c5d931163b857ad5fdff",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1028,7 +1050,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T20:03:24.909Z",
-      "accessTime": "2017-12-20T11:05:51.944Z",
+      "accessTime": "2017-12-21T11:11:23.630Z",
       "changeTime": "2017-12-18T20:03:24.909Z",
       "birthTime": "2017-12-18T20:03:24.909Z",
       "root": "/",
@@ -1046,11 +1068,11 @@
       "blksize": 4096,
       "ino": 7750350,
       "blocks": 8,
-      "atimeMs": 1513767951944.389,
+      "atimeMs": 1513854683629.9404,
       "mtimeMs": 1513627404908.9878,
       "ctimeMs": 1513627404908.9878,
       "birthtimeMs": 1513627404908.9878,
-      "atime": "2017-12-20T11:05:51.944Z",
+      "atime": "2017-12-21T11:11:23.630Z",
       "mtime": "2017-12-18T20:03:24.909Z",
       "ctime": "2017-12-18T20:03:24.909Z",
       "birthtime": "2017-12-18T20:03:24.909Z"
@@ -1060,7 +1082,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4d4370d74bbf765408930dbd341a8118",
+        "contentDigest": "753d282609239409e2852b96393bd80d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1071,7 +1093,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T15:19:51.695Z",
-      "accessTime": "2017-12-20T11:05:51.968Z",
+      "accessTime": "2017-12-21T11:11:23.630Z",
       "changeTime": "2017-12-18T15:19:51.695Z",
       "birthTime": "2017-12-18T15:19:51.695Z",
       "root": "/",
@@ -1089,11 +1111,11 @@
       "blksize": 4096,
       "ino": 7750351,
       "blocks": 8,
-      "atimeMs": 1513767951968.389,
+      "atimeMs": 1513854683629.9404,
       "mtimeMs": 1513610391695.0903,
       "ctimeMs": 1513610391695.0903,
       "birthtimeMs": 1513610391695.0903,
-      "atime": "2017-12-20T11:05:51.968Z",
+      "atime": "2017-12-21T11:11:23.630Z",
       "mtime": "2017-12-18T15:19:51.695Z",
       "ctime": "2017-12-18T15:19:51.695Z",
       "birthtime": "2017-12-18T15:19:51.695Z"
@@ -1103,7 +1125,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8add604abce691b3e678645950972f2d",
+        "contentDigest": "10acf1cc1be4e8fd8a81c9942c9dcb96",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1114,7 +1136,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2017-12-18T15:19:51.699Z",
-      "accessTime": "2017-12-20T11:05:51.968Z",
+      "accessTime": "2017-12-21T11:11:23.630Z",
       "changeTime": "2017-12-18T15:19:51.699Z",
       "birthTime": "2017-12-18T15:19:51.699Z",
       "root": "/",
@@ -1132,11 +1154,11 @@
       "blksize": 4096,
       "ino": 7750356,
       "blocks": 8,
-      "atimeMs": 1513767951968.389,
+      "atimeMs": 1513854683629.9404,
       "mtimeMs": 1513610391699.0906,
       "ctimeMs": 1513610391699.0906,
       "birthtimeMs": 1513610391699.0906,
-      "atime": "2017-12-20T11:05:51.968Z",
+      "atime": "2017-12-21T11:11:23.630Z",
       "mtime": "2017-12-18T15:19:51.699Z",
       "ctime": "2017-12-18T15:19:51.699Z",
       "birthtime": "2017-12-18T15:19:51.699Z"
@@ -1332,7 +1354,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2550976dca2e6eadd0c9b2c4a942d73e",
+        "contentDigest": "25dd2d8374616520328db65958f391bd",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1342,10 +1364,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2017-12-20T14:52:32.241Z",
-      "accessTime": "2017-12-20T14:52:32.249Z",
-      "changeTime": "2017-12-20T14:52:32.241Z",
-      "birthTime": "2017-12-20T14:52:32.241Z",
+      "modifiedTime": "2017-12-20T20:13:46.482Z",
+      "accessTime": "2017-12-20T20:13:46.746Z",
+      "changeTime": "2017-12-20T20:13:46.482Z",
+      "birthTime": "2017-12-20T20:13:46.482Z",
       "root": "/",
       "dir": "/home/kike/workspace/my-personal-web/src",
       "base": "images",
@@ -1361,14 +1383,14 @@
       "blksize": 4096,
       "ino": 7750340,
       "blocks": 8,
-      "atimeMs": 1513781552249.365,
-      "mtimeMs": 1513781552241.3647,
-      "ctimeMs": 1513781552241.3647,
-      "birthtimeMs": 1513781552241.3647,
-      "atime": "2017-12-20T14:52:32.249Z",
-      "mtime": "2017-12-20T14:52:32.241Z",
-      "ctime": "2017-12-20T14:52:32.241Z",
-      "birthtime": "2017-12-20T14:52:32.241Z"
+      "atimeMs": 1513800826745.953,
+      "mtimeMs": 1513800826481.9443,
+      "ctimeMs": 1513800826481.9443,
+      "birthtimeMs": 1513800826481.9443,
+      "atime": "2017-12-20T20:13:46.746Z",
+      "mtime": "2017-12-20T20:13:46.482Z",
+      "ctime": "2017-12-20T20:13:46.482Z",
+      "birthtime": "2017-12-20T20:13:46.482Z"
     },
     "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file",
@@ -1416,16 +1438,6 @@
       "ctime": "2017-12-18T18:23:02.031Z",
       "birthtime": "2017-12-18T18:23:02.031Z"
     },
-    "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file",
-      "internal": {
-        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/pic02.jpg absPath of file",
       "children": [
@@ -1472,51 +1484,15 @@
       "ctime": "2017-12-18T15:19:51.695Z",
       "birthtime": "2017-12-18T15:19:51.695Z"
     },
-    "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file": {
-      "id": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file",
-      "children": [
-        "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
+    "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/overlay.png absPath of file",
       "internal": {
-        "contentDigest": "24aab68832815618c72a8ecbefc42099",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg",
-      "relativePath": "pic03.jpg",
-      "extension": "jpg",
-      "size": 49012,
-      "prettySize": "49 kB",
-      "modifiedTime": "2017-12-18T19:28:25.117Z",
-      "accessTime": "2017-12-20T11:05:51.952Z",
-      "changeTime": "2017-12-18T19:28:25.125Z",
-      "birthTime": "2017-12-18T19:28:25.125Z",
-      "root": "/",
-      "dir": "/home/kike/workspace/my-personal-web/src/images",
-      "base": "pic03.jpg",
-      "ext": ".jpg",
-      "name": "pic03",
-      "relativeDirectory": "",
-      "dev": 43,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 7750342,
-      "blocks": 112,
-      "atimeMs": 1513767951952.389,
-      "mtimeMs": 1513625305116.663,
-      "ctimeMs": 1513625305124.6633,
-      "birthtimeMs": 1513625305124.6633,
-      "atime": "2017-12-20T11:05:51.952Z",
-      "mtime": "2017-12-18T19:28:25.117Z",
-      "ctime": "2017-12-18T19:28:25.125Z",
-      "birthtime": "2017-12-18T19:28:25.125Z"
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file",
@@ -1574,16 +1550,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file",
-      "internal": {
-        "contentDigest": "24aab68832815618c72a8ecbefc42099",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file",
       "children": [
@@ -1630,6 +1596,52 @@
       "ctime": "2017-12-18T19:05:22.090Z",
       "birthtime": "2017-12-18T19:05:22.090Z"
     },
+    "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file",
+      "children": [
+        "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24aab68832815618c72a8ecbefc42099",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg",
+      "relativePath": "pic03.jpg",
+      "extension": "jpg",
+      "size": 49012,
+      "prettySize": "49 kB",
+      "modifiedTime": "2017-12-18T19:28:25.117Z",
+      "accessTime": "2017-12-20T11:05:51.952Z",
+      "changeTime": "2017-12-18T19:28:25.125Z",
+      "birthTime": "2017-12-18T19:28:25.125Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
+      "base": "pic03.jpg",
+      "ext": ".jpg",
+      "name": "pic03",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7750342,
+      "blocks": 112,
+      "atimeMs": 1513767951952.389,
+      "mtimeMs": 1513625305116.663,
+      "ctimeMs": 1513625305124.6633,
+      "birthtimeMs": 1513625305124.6633,
+      "atime": "2017-12-20T11:05:51.952Z",
+      "mtime": "2017-12-18T19:28:25.117Z",
+      "ctime": "2017-12-18T19:28:25.125Z",
+      "birthtime": "2017-12-18T19:28:25.125Z"
+    },
     "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file >> ImageSharp": {
       "id": "/home/kike/workspace/my-personal-web/src/images/pic034.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -1639,6 +1651,52 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
+      "children": [
+        "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/sun.png",
+      "relativePath": "sun.png",
+      "extension": "png",
+      "size": 121729,
+      "prettySize": "122 kB",
+      "modifiedTime": "2017-12-20T14:52:32.253Z",
+      "accessTime": "2017-12-20T14:52:32.281Z",
+      "changeTime": "2017-12-20T14:52:32.249Z",
+      "birthTime": "2017-12-20T14:52:32.249Z",
+      "root": "/",
+      "dir": "/home/kike/workspace/my-personal-web/src/images",
+      "base": "sun.png",
+      "ext": ".png",
+      "name": "sun",
+      "relativeDirectory": "",
+      "dev": 43,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4729024,
+      "blocks": 264,
+      "atimeMs": 1513781552281.3657,
+      "mtimeMs": 1513781552253,
+      "ctimeMs": 1513781552249.365,
+      "birthtimeMs": 1513781552249.365,
+      "atime": "2017-12-20T14:52:32.281Z",
+      "mtime": "2017-12-20T14:52:32.253Z",
+      "ctime": "2017-12-20T14:52:32.249Z",
+      "birthtime": "2017-12-20T14:52:32.249Z"
     },
     "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file": {
       "id": "/home/kike/workspace/my-personal-web/src/images/bg.jpg absPath of file",
@@ -1692,6 +1750,26 @@
       "parent": "/home/kike/workspace/my-personal-web/src/images/pic01.jpg absPath of file",
       "internal": {
         "contentDigest": "591afee36fab936683a049c505b4ac2d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/pic03.jpg absPath of file",
+      "internal": {
+        "contentDigest": "24aab68832815618c72a8ecbefc42099",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp": {
+      "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
+      "internal": {
+        "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1818,62 +1896,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file": {
-      "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
-      "children": [
-        "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/home/kike/workspace/my-personal-web/src/images/sun.png",
-      "relativePath": "sun.png",
-      "extension": "png",
-      "size": 121729,
-      "prettySize": "122 kB",
-      "modifiedTime": "2017-12-20T14:52:32.253Z",
-      "accessTime": "2017-12-20T14:51:26.063Z",
-      "changeTime": "2017-12-20T14:52:32.249Z",
-      "birthTime": "2017-12-20T14:52:32.249Z",
-      "root": "/",
-      "dir": "/home/kike/workspace/my-personal-web/src/images",
-      "base": "sun.png",
-      "ext": ".png",
-      "name": "sun",
-      "relativeDirectory": "",
-      "dev": 43,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4729024,
-      "blocks": 264,
-      "atimeMs": 1513781486063,
-      "mtimeMs": 1513781552253,
-      "ctimeMs": 1513781552249.365,
-      "birthtimeMs": 1513781552249.365,
-      "atime": "2017-12-20T14:51:26.063Z",
-      "mtime": "2017-12-20T14:52:32.253Z",
-      "ctime": "2017-12-20T14:52:32.249Z",
-      "birthtime": "2017-12-20T14:52:32.249Z"
-    },
-    "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp": {
-      "id": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/kike/workspace/my-personal-web/src/images/sun.png absPath of file",
-      "internal": {
-        "contentDigest": "7450bb5a94dcb65960bcb43c66543317",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "SitePage /hello-world/": {
       "layout": "index",
       "jsonName": "hello-world.json",
@@ -1884,7 +1906,7 @@
       "context": {
         "path": "/hello-world/"
       },
-      "updatedAt": 1513783238705,
+      "updatedAt": 1513859939293,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
@@ -1893,7 +1915,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "666b2329b0267e3cfd166fdce3d5c00c",
+        "contentDigest": "511993f0e9ab1f1d7c732d9f9b76a94c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1907,7 +1929,7 @@
       "context": {
         "path": "/my-second-post/"
       },
-      "updatedAt": 1513783238706,
+      "updatedAt": 1513859939294,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/kike/workspace/my-personal-web/src/templates/blog-post.js",
@@ -1916,7 +1938,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff401d2444028581e6d08c9f9c05f8cc",
+        "contentDigest": "ec9e7471d39e703e247728abf42905de",
         "owner": "internal-data-bridge"
       }
     },
@@ -1928,7 +1950,7 @@
       "component": "/home/kike/workspace/my-personal-web/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513783238716,
+      "updatedAt": 1513859939303,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/kike/workspace/my-personal-web/src/pages/index.js",
@@ -1937,21 +1959,21 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "238a86ac3917b46d2e7832497304ab2c",
+        "contentDigest": "5cf8b9971c3ed91f74e29a2cd6b95b46",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "8f0bde91f5024a24228d0b1f9a008057"
+    "PLUGINS_HASH": "edd07133b954f83dffa059171d383b87"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/",
         "/my-second-post/",
         "/hello-world/",
+        "/",
         "LAYOUT___index"
       ],
       "/home/kike/workspace/my-personal-web/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [

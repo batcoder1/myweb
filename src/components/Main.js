@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
+import pic03 from '../images/pic03.jpg'  
 
 class Main extends React.Component {
   render() {
@@ -16,8 +16,13 @@ class Main extends React.Component {
         <article id="intro" className={`${this.props.article === 'intro' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Repo</h2>
           <span className="image main"><a href="http://github.com/wooltar"><img src={pic01} alt=""/></a></span>
-          <p>Check out</p>
-          <button className="button-right" onClick={() => {this.props.onCloseArticle()}} >Close</button>
+          <p>Check out!!!</p>
+          <lu>Demos</lu>
+          <li><a href="https://biblioteca.netlify.com" target="_blank">Biblioteca</a></li>
+          <li><a href="https://ksuperheroes.netlify.com" target="_blank">SuperHeroes</a></li>
+          <li><a href="https://bigfood-4b159.firebaseapp.com" target="_blank">BigFood</a></li>
+          <li><a href="https://submarine.netlify.com" target="_blank">Submarino con css</a></li>
+          <button className="button-right" onClick={ () => {this.props.onCloseArticle()}} >Close</button>
           {close}
         </article>
 
