@@ -21,7 +21,7 @@ class Main extends React.Component {
           <li><a href="https://biblioteca.netlify.com" target="_blank">Biblioteca: Proyecto Angular 5 con webpack manual</a></li>
           <li><a href="https://ksuperheroes.netlify.com" target="_blank">SuperHeroes</a></li>
           <li><a href="https://storereduxangular.netlify.com" target="_blank">Lista de la compra usando el store de Redux en Angular 5</a></li>
-          <li><a href="https://bigfood-4b159.firebaseapp.com" target="_blank">BigFood</a></li>
+          <li><a href="https://bigfood-4b159.firebaseapp.com" target="_blank">BigFood: Proyecto PWA Angular 5 con Firebase</a></li>
           <li><a href="https://submarine.netlify.com" target="_blank">Submarino animado con css</a></li>
           <button className="button-right" onClick={ () => {this.props.onCloseArticle()}} >Close</button>
           {close}
