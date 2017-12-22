@@ -18,10 +18,11 @@ class Main extends React.Component {
           <span className="image main"><a href="http://github.com/wooltar"><img src={pic01} alt=""/></a></span>
           <p>Check out!!!</p>
           <lu>Demos</lu>
-          <li><a href="https://biblioteca.netlify.com" target="_blank">Biblioteca</a></li>
+          <li><a href="https://biblioteca.netlify.com" target="_blank">Biblioteca: Proyecto Angular 5 con webpack manual</a></li>
           <li><a href="https://ksuperheroes.netlify.com" target="_blank">SuperHeroes</a></li>
+          <li><a href="https://storereduxangular.netlify.com" target="_blank">Lista de la compra usando el store de Redux en Angular 5</a></li>
           <li><a href="https://bigfood-4b159.firebaseapp.com" target="_blank">BigFood</a></li>
-          <li><a href="https://submarine.netlify.com" target="_blank">Submarino con css</a></li>
+          <li><a href="https://submarine.netlify.com" target="_blank">Submarino animado con css</a></li>
           <button className="button-right" onClick={ () => {this.props.onCloseArticle()}} >Close</button>
           {close}
         </article>
